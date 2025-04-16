@@ -1,6 +1,3 @@
-mysql
-ollama/ollama:latest
-limalab/llama2-chinese:latest
 huggingface/transformers:latest
 mongo
 arm64v8/ubuntu:20.04
